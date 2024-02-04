@@ -24,6 +24,14 @@ Hello! 👋 I'm Jawad Ali, currently pursuing a Bachelor's degree in Artificial 
 
 ## Projects
 
+### 1. Coffee web design
+
+A simple contact list app built using React and Firebase. Allows users to manage their contacts by adding names and email addresses.
+
+- [GitHub Repository](https://github.com/jawadali4819/contact-list-app)
+- Live Demo: [Contact List App](https://frabjous-trifle-5055d8.netlify.app/) <!-- Add if applicable -->
+
+
 ### 1. Contact List App
 
 A simple contact list app built using React and Firebase. Allows users to manage their contacts by adding names and email addresses.
