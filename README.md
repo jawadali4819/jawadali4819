@@ -26,30 +26,14 @@ Hello! 👋 I'm Jawad Ali, currently pursuing a Bachelor's degree in Artificial 
 
 ### 1. Coffee web design
 
-A simple contact list app built using React and Firebase. Allows users to manage their contacts by adding names and email addresses.
+A Coffee web design built using Vanilla Javascript, HTML and CSS. Provides intractive and responsive design to users.
 
-- [GitHub Repository](https://github.com/jawadali4819/contact-list-app)
-- Live Demo: [Contact List App](https://frabjous-trifle-5055d8.netlify.app/) <!-- Add if applicable -->
+- Live Demo: [Coffee web design](https://frabjous-trifle-5055d8.netlify.app/) <!-- Add if applicable -->
 
-
-### 1. Contact List App
-
-A simple contact list app built using React and Firebase. Allows users to manage their contacts by adding names and email addresses.
-
-- [GitHub Repository](https://github.com/jawadali4819/contact-list-app)
-- Live Demo: [Contact List App](https://frabjous-trifle-5055d8.netlify.app/) <!-- Add if applicable -->
-
-### 2. GPT-3 Front-end Design
-
-Front-end design showcasing the capabilities of OpenAI's GPT-3. A visually appealing and interactive user interface.
-
-- [GitHub Repository](https://github.com/jawadali4819/gpt3-front-end-design)
-- Live Demo: [GPT-3 Front-end Design](link-to-live-demo) <!-- Add if applicable -->
 
 ## Education
 
 - Bachelor's in Artificial Intelligence
-- COMSATS University Islamabad
 
 ## Let's Connect
 
