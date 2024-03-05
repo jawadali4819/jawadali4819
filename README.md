@@ -28,7 +28,7 @@ Hello! 👋 I'm Jawad Ali, currently pursuing a Bachelor's degree in Artificial 
 
 A Coffee web design built using Vanilla Javascript, HTML and CSS. Provides intractive and responsive design to users.
 
-- Live Demo: [Coffee web design](https://frabjous-trifle-5055d8.netlify.app/){:target="_blank"} <!-- Add if applicable -->
+- Live Demo: [Coffee web design](https://frabjous-trifle-5055d8.netlify.app/)<!-- Add if applicable -->
 
 
 ## Education
