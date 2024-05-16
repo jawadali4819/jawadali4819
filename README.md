@@ -39,4 +39,4 @@ A Coffee web design built using Vanilla Javascript, HTML and CSS. Provides intra
 
 Feel free to reach out if you have any questions or just want to chat about AI, Front-end Development, or anything else! I'm always open to new opportunities and collaborations.
 
-Connect with me on <a href="www.linkedin.com/in/jawad-ali-shahid" target="_blank">LinkedIn</a> <!-- Add if applicable -->
+Connect with me on <a href="https://www.linkedin.com/in/jawad-ali-shahid" target="_blank">LinkedIn</a> <!-- Add if applicable -->
