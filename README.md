@@ -4,12 +4,6 @@ Hello! 👋 I'm Jawad Ali, currently pursuing a Bachelor's degree in Artificial 
 
 <!-- ![Profile Picture](url-to-your-profile-picture) <!-- Replace with your profile picture URL -->
 
-## Contact
-
-📧 Email: jawad48192003@gmail.com
-
-🌐 GitHub: [jawadali4819](https://github.com/jawadali4819)
-
 ## Skills
 
 - Python
@@ -40,3 +34,4 @@ A Coffee web design built using Vanilla Javascript, HTML and CSS. Provides intra
 Feel free to reach out if you have any questions or just want to chat about AI, Front-end Development, or anything else! I'm always open to new opportunities and collaborations.
 
 Connect with me on <a href="https://www.linkedin.com/in/jawad-ali-shahid" target="_blank">LinkedIn</a> <!-- Add if applicable -->
+📧 Email: jawad48192003@gmail.com
