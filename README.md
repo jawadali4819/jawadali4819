@@ -1,6 +1,4 @@
-# Jawad Ali - GitHub Portfolio
-
-
+<!-- # Jawad Ali - GitHub Portfolio -->
 
 ---
 
