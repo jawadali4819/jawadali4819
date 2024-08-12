@@ -1,16 +1,24 @@
 # Jawad Ali - GitHub Portfolio
 
-Hello! 👋 I'm Jawad Ali, currently pursuing a Bachelor's degree in Artificial Intelligence. Although my academic focus is on AI, my passion lies in Front-end Development.
+
+
+---
+
+Hello! 👋 I'm Jawad Ali,
+
+a **Bachelor of Science in Artificial Intelligence (BSAI)** student with a focus on AI and Python. I'm interested in applying AI to practical projects and am currently exploring web development and generative AI. I enjoy building projects that blend AI with real-world applications.
+
+---
 
 <!-- ![Profile Picture](url-to-your-profile-picture) <!-- Replace with your profile picture URL -->
 
 ## Skills
-
+- Pytorch
+- React.js
+- FAST API
 - Python
-- Java
 - C++
 - JavaScript
-- React.js
 - CSS
 - HTML
 - Machine Learning
