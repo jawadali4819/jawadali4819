@@ -1,13 +1,11 @@
 
 
----
-
 # Jawad Ali - Portfolio
 
 Hello! 👋 I'm **Jawad Ali**,  
 a passionate **Bachelor of Science in Artificial Intelligence (BSAI)** student with a keen interest in exploring the intersection of AI and web development. I specialize in building solutions that leverage AI and front-end technologies to solve real-world problems. Currently, I’m delving into generative AI and interactive web design.
 
----
+
 
 ## Skills
 
@@ -15,7 +13,7 @@ a passionate **Bachelor of Science in Artificial Intelligence (BSAI)** student w
 - **Frameworks/Libraries:** React.js, Next js, PyTorch, Langchain, FastAPI  
 - **Technologies:** Machine Learning, Generative AI
 
----
+
 
 ## Projects
 
@@ -42,14 +40,13 @@ An interactive and responsive coffee-themed website built with Vanilla JavaScrip
 - **Technologies:** JavaScript, HTML, CSS  
 - **Live Demo:** [Coffee Web Design](https://frabjous-trifle-5055d8.netlify.app/)  
 
----
+
 
 ## Education
 
 - **Bachelor's in Artificial Intelligence**  
-  [University Name] *(optional: add if needed)*  
 
----
+
 
 ## Let's Connect  
 
