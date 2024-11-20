@@ -1,43 +1,61 @@
-<!-- # Jawad Ali - GitHub Portfolio -->
+Here's the improved and professional version of your GitHub README:
 
 ---
 
-Hello! 👋 I'm Jawad Ali,
+# Jawad Ali - Portfolio
 
-a **Bachelor of Science in Artificial Intelligence (BSAI)** student with a focus on AI and Python. I'm interested in applying AI to practical projects and am currently exploring web development and generative AI. I enjoy building projects that blend AI with real-world applications.
+Hello! 👋 I'm **Jawad Ali**,  
+a passionate **Bachelor of Science in Artificial Intelligence (BSAI)** student with a keen interest in exploring the intersection of AI and web development. I specialize in building solutions that leverage AI and front-end technologies to solve real-world problems. Currently, I’m delving into generative AI and interactive web design.
 
 ---
-
-<!-- ![Profile Picture](url-to-your-profile-picture) <!-- Replace with your profile picture URL -->
 
 ## Skills
-- Pytorch
-- React.js
-- FAST API
-- Python
-- C++
-- JavaScript
-- CSS
-- HTML
-- Machine Learning
-- Front-end Development
+
+- **Programming:** Python, C++, JavaScript  
+- **Frameworks/Libraries:** React.js, Next js, PyTorch, Langchain, FastAPI  
+- **Technologies:** Machine Learning, Generative AI
+
+---
 
 ## Projects
 
-### 1. Coffee web design
+### 1. GPT-3 Website  
+An elegant and responsive design inspired by JavaScript Mastery's tutorial. This project demonstrates the potential of AI-focused websites with cutting-edge UI and animations.  
 
-A Coffee web design built using Vanilla Javascript, HTML and CSS. Provides intractive and responsive design to users.
+- **Technologies:** React, Vite  
+- **Design Reference:** [Figma Design](https://www.figma.com/design/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0-15&node-type=symbol&t=eV26Obo9iKf2u7iJ-0)  
+- **Live Demo:** [GPT-3 Website](https://gpt-3-eosin.vercel.app/)  
 
-- Live Demo: [Coffee web design](https://frabjous-trifle-5055d8.netlify.app/)<!-- Add if applicable -->
+---
 
+### 2. Ochi Website Clone  
+A clone of the **Ochi.Design** website, reflecting a strong understanding of React and responsive web design principles.  
+
+- **Technologies:** React  
+- **Live Demo:** [Ochi Design Clone](https://ochi-clone-kappa.vercel.app/)  
+
+---
+
+### 3. Coffee Web Design  
+An interactive and responsive coffee-themed website built with Vanilla JavaScript, HTML, and CSS. The design focuses on delivering a seamless user experience.  
+
+- **Technologies:** JavaScript, HTML, CSS  
+- **Live Demo:** [Coffee Web Design](https://frabjous-trifle-5055d8.netlify.app/)  
+
+---
 
 ## Education
 
-- Bachelor's in Artificial Intelligence
+- **Bachelor's in Artificial Intelligence**  
+  [University Name] *(optional: add if needed)*  
 
-## Let's Connect
+---
 
-Feel free to reach out if you have any questions or just want to chat about AI, Front-end Development, or anything else! I'm always open to new opportunities and collaborations.
+## Let's Connect  
 
-Connect with me on <a href="https://www.linkedin.com/in/jawad-ali-shahid" target="_blank">LinkedIn</a> <!-- Add if applicable -->
-📧 Email: jawad48192003@gmail.com
+I'm always open to discussing AI, web development, and collaboration opportunities. Feel free to reach out!  
+
+- **LinkedIn:** [Jawad Ali](https://www.linkedin.com/in/jawad-ali-shahid)  
+- **Email:** jawad48192003@gmail.com  
+
+--- 
