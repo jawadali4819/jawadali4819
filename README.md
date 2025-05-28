@@ -1,23 +1,31 @@
-
-
-# Jawad Ali - Portfolio
-
 Hello! 👋 I'm **Jawad Ali**,  
 a passionate **Bachelor of Science in Artificial Intelligence (BSAI)** student with a keen interest in exploring the intersection of AI and web development. I specialize in building solutions that leverage AI and front-end technologies to solve real-world problems. Currently, I’m delving into generative AI and interactive web design.
-
-
 
 ## Skills
 
 - **Programming:** Python, C++, JavaScript  
-- **Frameworks/Libraries:** React.js, Next js, PyTorch, Langchain, FastAPI  
-- **Technologies:** Machine Learning, Generative AI
-
-
+- **Frameworks/Libraries:** React.js, Next.js, PyTorch, LangChain, FastAPI  
+- **Technologies:** Machine Learning, Generative AI, MongoDB, Pinecone, LLaMA 3, Tavily, Stripe  
 
 ## Projects
 
-### 1. GPT-3 Website  
+### 1. LegalMind: AI-Powered Legal Document Management Platform  
+Developed a cutting-edge platform to revolutionize legal document management for lawyers in Pakistan, leveraging advanced AI technologies.  
+
+- **Key Features:**  
+  - **Case Management:** Intuitive interface for organizing and tracking legal cases.  
+  - **Document Summarization:** NLP-based summarization to generate concise summaries of legal documents, reducing review time.  
+  - **Case Analysis:** Generates reports with insights into case strengths, weaknesses, and suggestions based on aggregated file data.  
+  - **Law Retrieval:** Integrates legal databases to suggest and link relevant laws and regulations.  
+  - **Contract Generation:** Enables users to create legally binding contracts using natural language prompts with instant download functionality.  
+  - **AI Chatbot:** Built using Retrieval-Augmented Generation (RAG) to provide real-time legal information and interact with historical cases.  
+- **Technologies:** FastAPI (backend), Next.js (frontend), MongoDB, Pinecone, LLaMA 3, Tavily (real-time search), Stripe (payment integration)  
+- **Impact:** Streamlined workflows for legal professionals, automating routine tasks and enhancing decision-making efficiency.  
+- **Demo Video:** [Watch the LegalMind Demo on YouTube](https://youtu.be/q-nR4DIXjk8)  
+
+---
+
+### 2. GPT-3 Website  
 An elegant and responsive design inspired by JavaScript Mastery's tutorial. This project demonstrates the potential of AI-focused websites with cutting-edge UI and animations.  
 
 - **Technologies:** React, Vite  
@@ -26,7 +34,7 @@ An elegant and responsive design inspired by JavaScript Mastery's tutorial. This
 
 ---
 
-### 2. Ochi Website Clone  
+### 3. Ochi Website Clone  
 A clone of the **Ochi.Design** website, reflecting a strong understanding of React and responsive web design principles.  
 
 - **Technologies:** React  
@@ -34,19 +42,15 @@ A clone of the **Ochi.Design** website, reflecting a strong understanding of Rea
 
 ---
 
-### 3. Coffee Web Design  
+### 4. Coffee Web Design  
 An interactive and responsive coffee-themed website built with Vanilla JavaScript, HTML, and CSS. The design focuses on delivering a seamless user experience.  
 
 - **Technologies:** JavaScript, HTML, CSS  
 - **Live Demo:** [Coffee Web Design](https://frabjous-trifle-5055d8.netlify.app/)  
 
-
-
 ## Education
 
 - **Bachelor's in Artificial Intelligence**  
-
-
 
 ## Let's Connect  
 
@@ -55,4 +59,4 @@ I'm always open to discussing AI, web development, and collaboration opportuniti
 - **LinkedIn:** [Jawad Ali](https://www.linkedin.com/in/jawad-ali-shahid)  
 - **Email:** jawad48192003@gmail.com  
 
---- 
+---
