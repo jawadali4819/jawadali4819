@@ -3,9 +3,14 @@ a passionate **Bachelor of Science in Artificial Intelligence (BSAI)** student w
 
 ## Skills
 
-- **Programming:** Python, C++, JavaScript  
-- **Frameworks/Libraries:** React.js, Next.js, PyTorch, LangChain, FastAPI  
-- **Technologies:** Machine Learning, Generative AI, MongoDB, Pinecone, LLaMA 3, Tavily, Stripe  
+• **Languages:** Python, Javascript, Typescript, HTML, CSS 
+• **AI Frameworks:** PyTorch, LangChain, OpenAI, HuggingFace, Pandas, Scikit-learn, n8n 
+• **Web Technologies:** React, Next.js, FastAPI 
+• **Databases:** MongoDB, Postgress, Pinecone 
+• **Tools:** Git, Docker, Visual Studio Code 
+• **Machine Learning:** ANN, Natural Language Processing(NLP), Large Language Models(LLMs), 
+Chatbots 
+
 
 ## Projects
 
