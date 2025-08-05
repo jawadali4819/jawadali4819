@@ -61,6 +61,7 @@ An interactive and responsive coffee-themed website built with Vanilla JavaScrip
 
 I'm always open to discussing AI, web development, and collaboration opportunities. Feel free to reach out!  
 
+- **Portfolio:** [https://portfolio-sigma-sable-32.vercel.app/](https://portfolio-sigma-sable-32.vercel.app/)
 - **LinkedIn:** [Jawad Ali](https://www.linkedin.com/in/jawad-ali-shahid)  
 - **Email:** jawad48192003@gmail.com  
 
