@@ -1,5 +1,5 @@
 Hello! 👋 I'm **Jawad Ali**,  
-a passionate **Bachelor of Science in Artificial Intelligence (BSAI)** student with a keen interest in exploring the intersection of AI and web development. I specialize in building solutions that leverage AI and front-end technologies to solve real-world problems. Currently, I’m delving into generative AI and interactive web design.
+**Bachelor of Science in Artificial Intelligence (BSAI)** student with a keen interest in exploring the intersection of AI and web development. I specialize in building solutions that leverage AI technologies to solve real-world problems. Currently, I’m delving into generative AI and its role in real world applications.
 
 ## Skills
 
